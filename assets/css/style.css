@@ -1,0 +1,32 @@
+i.fa-users,
+i.fa-address-book,
+i.fa-search{
+	font-size: 48px;
+	color: #fca800;
+	padding-right: 10px;
+}
+.degisn-add-user,
+.degisn-edit-user {
+	border: 1px solid silver;
+	padding: 30px 0px;
+	margin: 50px 0px;
+}
+.login .form-login{
+	background-color: #fedf8d;
+}
+.login .form-group{
+	position: relative;
+
+}
+i.fa-user-circle{
+	font-size: 96px;
+	color: #fff;
+}
+
+i.fa-user,
+i.fa-lock{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	color: silver;
+}
